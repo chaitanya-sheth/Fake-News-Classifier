@@ -4,6 +4,7 @@ This project aims to classify news articles as real or fake using Natural Langua
 Link of the dataset: https://www.kaggle.com/code/simtoor/fake-news-detection/input?select=train.csv
 
 **Model Architecture**
+
 We use a Recurrent Neural Network (RNN) variant — LSTM (Long Short-Term Memory) — which is well-suited for sequential data like text.
 
 Steps:
