@@ -9,7 +9,7 @@ We use a Recurrent Neural Network (RNN) variant — LSTM (Long Short-Term Memory
 
 Steps:
 1. Text Cleaning:
-  -> Removal of punctuations, stopwords, HTML tags, etc. Also applied Tokenization and convert all words to lowercase
+  -> Tokenization, Lowercasing and Removal of punctuations, stopwords, HTML tags, etc. 
 
 2. Embedding:
   -> Use of an Embedding Layer to convert words into dense vectors
